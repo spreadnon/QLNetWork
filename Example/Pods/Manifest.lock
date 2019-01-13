@@ -1,0 +1,16 @@
+PODS:
+  - QLNetWork (0.1.0)
+
+DEPENDENCIES:
+  - QLNetWork (from `../`)
+
+EXTERNAL SOURCES:
+  QLNetWork:
+    :path: ../
+
+SPEC CHECKSUMS:
+  QLNetWork: e38f36a7c387166966d4496b3ed649cc9804fc0a
+
+PODFILE CHECKSUM: 9df4df2011dfb6e869998a91efa8f8e50bba8ca7
+
+COCOAPODS: 1.3.1
